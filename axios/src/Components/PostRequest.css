@@ -1,0 +1,46 @@
+* {
+    background-color: aqua;
+}
+
+.formdiv {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.formall {
+    border: 2px solid #000;
+    border-radius: 8px;
+    margin: 0px 300px;
+    padding: 30px 0;
+    background-image: linear-gradient(to right, #43C6AC, #F8FFAE);
+    box-shadow: 0 0 10px 2px;
+
+}
+
+input {
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 4px solid #000;
+    background: #fff;
+}
+
+label {
+    font-weight: bold;
+    background: transparent;
+}
+
+h2 {
+    background: transparent;
+}
+
+button {
+    padding: 10px 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    font-weight: bold;
+    background: rgb(221, 105, 215);
+}
+
+button:hover {
+    background: rgb(224, 118, 118);
+}
